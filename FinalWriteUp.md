@@ -1,4 +1,4 @@
-Best Spots For Facillies: Highland Park, Squirrel Hills South, Perry North, Strip District
+Best Spots For Facilities: Highland Park, Squirrel Hills South, Perry North, Strip District
 
 
 Best Spots for Grocery Stores: Lower Lawrenceville, South Oakland, Strip District
