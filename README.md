@@ -1,10 +1,15 @@
 # Big-Ideas-Final-Project
-team name:
+team name:Survivors
 canvas group 50
 
+overview: this repository determines the best neighborhood in pittsburgh to survive a purge.
+
 group members:
+
 Ethan Nerone etn8@pitt.edu   metric: grocery stores   indiviual notebook:EthanProject.ipnyb
+
 Kenneth Barrett ktb25@pitt.edu   metric: crime rates   indiviual notebook: KensProjectCode.ipnyb
+
 Jacky ho jyh14@pitt.edu   metric: city facilities   indiviual notebook:
 
 Description:
