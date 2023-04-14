@@ -19,7 +19,7 @@ Data sets used:
 
 Ken
 Chosen dataset: Police Incident Blotter(Archive)
-Police Incident Blotter (Archive) - Datasets - WPRDC
+Police Incident Blotter (Archive) - Datasets - Police Incident Blotter (Archive) https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/044f2016-1dfd-4ab0-bc1e-065da05fca2e and 2020 Census Redistricting Data Extracts https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/fb2cb765-458c-4deb-8252-0a18d7ce9a78
 
 Jacky
 Chosen dataset: City Facilities
